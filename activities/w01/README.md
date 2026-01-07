@@ -35,8 +35,6 @@ from PIL import Image
 print('The library was successfully imported')
 ```
 
-The comptuer doesn't really care about how list elements are spaced. But the extra space after every y-coordinate in the list helps keep it organized, for the benefit of humans reading or reviewing the code.
-
 I named my program file `verify_pillow.py` but you can choose a different file name if you want, as long as it ends in `.py`. If you have trouble, please ask your instructor or teaching assistant for help.
 
 ### Challenge
