@@ -17,7 +17,7 @@ context.rectangle([75,10,105,30], fill='red', outline='yellow')
 img.show()
 ```
 
-Your picture viewer should shouw you a scary yet friendly face.
+Your picture viewer should show you a scary yet friendly face.
 
 - ![smiling robot](robot_smile2.png)
 
