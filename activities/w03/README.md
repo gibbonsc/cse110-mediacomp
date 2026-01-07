@@ -2,7 +2,7 @@
 
 ## Variables
 
-### Pixels with Variable Colors
+### Pixels with Varying Colors
 
 Here are nine lines of Python code that use the pillow module to render a pattern of pixels with different color shades.
 
