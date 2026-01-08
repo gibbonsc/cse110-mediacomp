@@ -207,3 +207,5 @@ c = 1; x = c * math.pi / 5; y = math.sin(x) * 5 + 15; grid[c, y] = (255,255,255)
 *Footnote*
 
 *[^1]*: According to the official [PEP8 style guide](https://peps.python.org/pep-0008/), it's better to keep Python statements on separate lines instead of separated by semicolons. However, in these programs it helps make the repeated steps easier to read and follow. As stated at the [beginning of the guide](https://peps.python.org/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds): "know when to be inconsistent – sometimes style guide recommendations just aren’t applicable. When in doubt, use your best judgment. Look at other examples and decide what looks best."
+
+Stay tuned -- in a few weeks we will learn to code with *loops*, which can simplify the code in this example and make it even more readable and understandable.
