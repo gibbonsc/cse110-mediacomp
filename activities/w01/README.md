@@ -52,7 +52,7 @@ picture.show()
 
 ### Interactive Python
 
-Python has an interactive mode. We won't use it often, because we're learning to *write programs*, not just interact with Python.
+Python has an interactive mode. We'll use it occasionally, but not often, because we're learning to *write programs*, not just interact with Python.
 
 Sometimes a student accidentally gets stuck inside an interactive Python session and can't figure out what happened. Try this: type your Python command (`py` or `python3` or whatever) by itself and press [Enter]. You will see a "triple angle" prompt that looks like this:
 
