@@ -11,3 +11,6 @@
 - Week 07 [Examine Colors in a Picture](activities/w07/)
 - Week 08 [Combine Pictures](activities/w08/)
 - Week 09 [Drawing Polygons](activities/w09/)
+- Week 10 [Pie Chart](activities/w10/)
+- Week 11 [Visualize a Sound](activities/w11/)
+- Week 12 [Synthesize a Sound](activities/w12/)
