@@ -49,4 +49,4 @@ One of the pillow library's ImageDraw functions is `pieslice`.
 
 ## Challenge
 
-Suppose you want to highlight one specific slice of a pie chart. A simple way to focus attention is to "explode" that slice -- shift it slightly away from the rest of the chart. Write a pie chart program where **the first slice uses a different bounding box** than the others This should make that slice appear separated or pulled out from the main pie. THe remaining slices should all share the same bounding box so they stay together.
+Suppose you want to highlight one specific slice of a pie chart. A simple way to focus attention is to "explode" that slice -- shift it slightly away from the rest of the chart. Write a pie chart program where **the first slice uses a different bounding box** than the others. This should make that slice appear separated or pulled out from the main pie. THe remaining slices should all share the same bounding box so they stay together.
